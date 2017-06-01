@@ -25,6 +25,8 @@ You may also execute python online
 
 Run HTML file using  a browser
 
+Make sure port number is same in the uri
+
 Alternately type python in terminal and you can directly start coding!!!
 
 ## Versioning
